@@ -1,0 +1,11 @@
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\bin\Debug\testsInHistory.exe.config
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\bin\Debug\testsInHistory.exe
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\bin\Debug\testsInHistory.pdb
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.Properties.Resources.resources
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.csproj.GenerateResource.cache
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.csproj.CoreCompileInputs.cache
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.exe
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.pdb
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.StartForm.resources
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.Test.resources
+F:\НГТУ\Домашние задания\Информатика\Проекты\testsInHistory\obj\Debug\testsInHistory.csproj.AssemblyReference.cache
